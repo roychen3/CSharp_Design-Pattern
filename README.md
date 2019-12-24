@@ -8,12 +8,15 @@
   5. 單例模式 (Singleton Pattern)
      * 懶漢方式(Lazy initialization)：第一次使用時，才產生實例。
      * 餓漢方式(Eager initialization)：class 載入時就產生實例，不管後面會不會用到。
+<br>
 
 * 結構型模式 (Structural Pattern)
   1.橋接模式 (Bridge Pattern)
   2. 組合模式 (Composite Pattern)
   3.裝飾模式 (Decorator Pattern)
   4.享元模式 (Flyweight Pattern)
+
+<br>
 
 * 行為型模式 (Behavioral pattern)
   1. 責任鏈模式 (Chain-of-responsibility Pattern)
