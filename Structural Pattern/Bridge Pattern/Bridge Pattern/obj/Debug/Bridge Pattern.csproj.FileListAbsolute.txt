@@ -1,0 +1,5 @@
+D:\c#\Pattern\Bridge Pattern\Bridge Pattern\bin\Debug\Bridge Pattern.exe.config
+D:\c#\Pattern\Bridge Pattern\Bridge Pattern\bin\Debug\Bridge Pattern.exe
+D:\c#\Pattern\Bridge Pattern\Bridge Pattern\bin\Debug\Bridge Pattern.pdb
+D:\c#\Pattern\Bridge Pattern\Bridge Pattern\obj\Debug\Bridge Pattern.exe
+D:\c#\Pattern\Bridge Pattern\Bridge Pattern\obj\Debug\Bridge Pattern.pdb
