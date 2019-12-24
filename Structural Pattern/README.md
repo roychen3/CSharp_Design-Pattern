@@ -1,0 +1,5 @@
+# 結構型模式 (Structural Pattern)
+1. 橋接模式 (Bridge Pattern)
+2. 組合模式 (Composite Pattern)
+3. 裝飾模式 (Decorator Pattern)
+4. 享元模式 (Flyweight Pattern)
