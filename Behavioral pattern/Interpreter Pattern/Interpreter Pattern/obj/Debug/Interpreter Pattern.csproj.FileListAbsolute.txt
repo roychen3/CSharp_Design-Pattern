@@ -1,0 +1,5 @@
+D:\c#\Pattern\Behavioral pattern\Interpreter Pattern\Interpreter Pattern\bin\Debug\Interpreter Pattern.exe.config
+D:\c#\Pattern\Behavioral pattern\Interpreter Pattern\Interpreter Pattern\bin\Debug\Interpreter Pattern.exe
+D:\c#\Pattern\Behavioral pattern\Interpreter Pattern\Interpreter Pattern\bin\Debug\Interpreter Pattern.pdb
+D:\c#\Pattern\Behavioral pattern\Interpreter Pattern\Interpreter Pattern\obj\Debug\Interpreter Pattern.exe
+D:\c#\Pattern\Behavioral pattern\Interpreter Pattern\Interpreter Pattern\obj\Debug\Interpreter Pattern.pdb
